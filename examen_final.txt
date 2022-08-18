@@ -1,0 +1,2 @@
+
+codigo: 1 | nombre: luis | curso: matematica | promedio: 15.75nota113 | nota2: 16 | nota3: 14 | nota420
